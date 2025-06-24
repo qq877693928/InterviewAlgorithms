@@ -5,105 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="484b17e3-7de3-497d-9c60-1deac55ed614" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/01MergeArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/02SearchMartix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/03MatrixPrint.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/04RorationMatirx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/05ReversedNodeList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/06ReversedLinkeList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/07CycleListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/08MergeListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/09CrossListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/10ReverseBetweenNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/11MergeKListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/12CycleListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/13ReRangeListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/14LastCountListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/15DelLastNListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/16RemoveDupListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/17AddListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/18SortListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/19PalinDromeListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/20RemoveDuplicatesListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/21CopyRandomListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/22SwapPairsNodeListNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/23PreTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/24LevelTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/25ZigzagLevelTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/26RightSideTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/27ValidateSearchTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/28KSearchTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/29DepthTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/30BalanceTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/31DiameterTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/31SymmetricTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/33InvertTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/34CommonAncestorTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/35PathSumTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/36MaxPathSumTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/37ConstructBinaryTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/38ValidParentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/39TrappingRainWater.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/40QueueOfStack.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/41MinStack.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/42BasicCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/43LRUCache.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/44TwoSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/45ThreeSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/46FirstMissPositive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/47MajorityElement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/48LongestConsecutiveSequence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/49AddStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/50StringToIntegerAtoi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/51ReverseWordsInString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/52MultiplyStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/53ValidateIpAddress.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/54LongestCommonPrefix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/55DecodeString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/56KthLargestElement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/57SearchElementInRotatedArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/58Sqrtx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/59MedianOfTwoArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/63QuickSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/66MergeIntervals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/67LargestNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/68IslandNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/69SumLeafTreeNode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/70IslandMaxArea.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/71CheckCompletenessBinaryTree.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/72SingleNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/73NextPermutation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/74CompareVersionNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/75CompareVersionNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/76LongestSubstringNoRepeat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/79Permutations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/80RestoreIpAddress.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/81PathSumII.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/82Subsets.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/83GenerateParentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/84CombinationSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/85MaximumSubArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/86BestTimeBuySellStock.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/87BestTimeBuySellStock.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/88LongestPalindromicSubstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/89ClimbingStairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/90EditDistance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/91LongestCommonSubsequence.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/92MaximumLengthOfRepeatedSubarray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/93CoinChange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/94LongestValidParentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/95MinimumPathSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/96UniquePaths.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/97MaximalSquare.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/98HouseRobber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MaxInterString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MaxSameStringLength.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/_100MutliThreadPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/others/101RemoveElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +18,19 @@
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="1" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2yntQyw5sWRf5cQ5RelyaQdX3GD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -128,13 +40,14 @@
   "keyToString": {
     "Kotlin._01MergeArrayKt.executor": "Coverage",
     "Kotlin._03MatrixPrintKt.executor": "Coverage",
+    "Kotlin._101RemoveElementKt.executor": "Coverage",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mac/GithubCode/InterviewAlgorithms/src",
+    "last_opened_file_path": "/Users/mac/GithubCode/InterviewAlgorithms",
     "onboarding.tips.debug.path": "/Users/mac/GithubCode/InterviewAlgorithms/src/Main.java"
   }
 }]]></component>
@@ -146,7 +59,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._03MatrixPrintKt">
+  <component name="RunManager" selected="Kotlin._101RemoveElementKt">
     <configuration name="_01MergeArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms._01MergeArrayKt" />
       <module name="InterviewAlgorithms" />
@@ -161,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_101RemoveElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="others._101RemoveElementKt" />
+      <module name="InterviewAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._101RemoveElementKt" />
         <item itemvalue="Kotlin._03MatrixPrintKt" />
         <item itemvalue="Kotlin._01MergeArrayKt" />
       </list>
@@ -192,5 +113,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InterviewAlgorithms$_01MergeArrayKt.ic" NAME="_01MergeArrayKt Coverage Results" MODIFIED="1750482564910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
     <SUITE FILE_PATH="coverage/InterviewAlgorithms$_03MatrixPrintKt.ic" NAME="_03MatrixPrintKt Coverage Results" MODIFIED="1750482611573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/InterviewAlgorithms$_101RemoveElementKt.ic" NAME="_101RemoveElementKt Coverage Results" MODIFIED="1750751760396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
